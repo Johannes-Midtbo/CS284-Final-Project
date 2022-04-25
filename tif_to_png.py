@@ -9,7 +9,7 @@ arr= band.ReadAsArray()
 
 
 
-#####RGB image to array for RGB images
+######RGB image to array for RGB images
 
 
 # band2 = dataset.GetRasterBand(2)
